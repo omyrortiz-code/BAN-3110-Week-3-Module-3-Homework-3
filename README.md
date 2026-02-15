@@ -1,4 +1,4 @@
-# ban3110-homework-2
+# ban3110-homework-3
 BAN 3110 – Week 3 Module 3 Homework 3
 
 This repository contains my solutions for the BAN 3110 Week 3 Module 3 Homework 3.
