@@ -5,6 +5,7 @@ This repository contains my solutions for the BAN 3110 Week 3 Module 3 Homework 
 
 ## Files
 - `ban3110_week_3_module_3_hw3_omy_ortiz.py` – Python solutions for Problems 1–7
+- `Homework 3.pdf` – Homework Problems that needed to be solved
 
 ## AI Use Statement
 AI tools used: ChatGPT  
